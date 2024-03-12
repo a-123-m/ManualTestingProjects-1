@@ -1,6 +1,12 @@
-In this project, I have prepared the test plan, test cases and bug report for Login page of VWO website. The test plan, test cases and bug report have been prepared by taking the help of templates that I used while studying through Youtube and by refering Internet.
-For the test plan creation, I referred a sample plan created of the same website by one of the Youtubers. I tried to modify and replicate it with some changes of my own.   
-Then for test cases, I used Excel workbook to prepare all the scenarios and positive and negative test cases which I had considered for the scenario 'Login functionality of VWO'.
-And finally for the failed test cases, I prepared a bug report.
+In this project, I focused on testing the login functionality of the VWO website. My tasks involved creating a test plan, designing test cases, and documenting any detected bugs.
 
-Thanks for reading. Please go through my documents and feel free to share your valuable advice and opinions on the same.
+To begin, I analyzed existing templates sourced from online platforms like YouTube and the internet to guide my test plan creation. 
+
+For the test plan, I referred to a sample plan available on YouTube for the same website, modifying it as needed to align with our testing objectives. 
+
+Using Excel, I meticulously outlined various scenarios for the login process, encompassing both positive and negative test cases. 
+
+In the event of any test failures or unexpected behaviors, I documented these issues in a bug report. 
+This report provided detailed information about the observed discrepancies, facilitating their resolution by the development team.
+
+Thanks for reading. Feel free to take a look at the documents prepared and share your reviews and feedback.
